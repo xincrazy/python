@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<configuration>
+
+    <property>
+        <name>spark.master</name>
+        <value>spark://master:7077</value>
+        <description>
+            The cluster manager to connect to
+        </description>
+    </property>
+
+    <property>
+        <name>spark.driver.memory</name>
+        <value>1g</value>
+        <description>
+            Amount of memory to use for the driver process, i.e. where SparkContext is initialized. (e.g. 1g, 2g).
+            Note: In client mode, this config must not be set through the SparkConf directly in your application,
+            because the driver JVM has already started at that point. Instead, please set this through the --driver-memory
+            command line option or in your default properties file
+        </description>
+    </property>
+
+</configuration>

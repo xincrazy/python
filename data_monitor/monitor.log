@@ -1,0 +1,362 @@
+Mon, 18 Jan 2016 13:55:27 base.py[line:349] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Mon, 18 Jan 2016 13:55:27 base.py[line:349] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Mon, 18 Jan 2016 13:55:27 base.py[line:349] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Mon, 18 Jan 2016 13:55:27 base.py[line:349] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Mon, 18 Jan 2016 13:55:27 base.py[line:349] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Mon, 18 Jan 2016 13:55:27 base.py[line:349] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Mon, 18 Jan 2016 13:55:27 base.py[line:349] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Mon, 18 Jan 2016 13:55:27 base.py[line:349] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Mon, 18 Jan 2016 13:55:27 base.py[line:349] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Mon, 18 Jan 2016 13:55:27 base.py[line:349] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Mon, 18 Jan 2016 13:55:27 base.py[line:743] INFO Added job "Data.metricRate" to job store "default"
+Mon, 18 Jan 2016 13:55:27 base.py[line:743] INFO Added job "Data.metricRate" to job store "default"
+Mon, 18 Jan 2016 13:55:27 base.py[line:743] INFO Added job "Data.metricRate" to job store "default"
+Mon, 18 Jan 2016 13:55:27 base.py[line:743] INFO Added job "Data.metricRate" to job store "default"
+Mon, 18 Jan 2016 13:55:27 base.py[line:743] INFO Added job "Data.metric" to job store "default"
+Mon, 18 Jan 2016 13:55:27 base.py[line:743] INFO Added job "Data.metric" to job store "default"
+Mon, 18 Jan 2016 13:55:27 base.py[line:743] INFO Added job "Data.metric" to job store "default"
+Mon, 18 Jan 2016 13:55:27 base.py[line:743] INFO Added job "Data.metric" to job store "default"
+Mon, 18 Jan 2016 13:55:27 base.py[line:743] INFO Added job "Data.metric" to job store "default"
+Mon, 18 Jan 2016 13:55:27 base.py[line:743] INFO Added job "Data.metric" to job store "default"
+Mon, 18 Jan 2016 13:55:27 base.py[line:132] INFO Scheduler started
+Mon, 18 Jan 2016 13:55:32 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:32 UTC)" (scheduled at 2016-01-18 05:55:32.692294+00:00)
+Mon, 18 Jan 2016 13:55:32 monitor.py[line:35] INFO metric:counter.traffic.total,topic:flink-in,value:11245
+Mon, 18 Jan 2016 13:55:32 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:37 UTC)" (scheduled at 2016-01-18 05:55:32.692979+00:00)
+Mon, 18 Jan 2016 13:55:32 monitor.py[line:41] INFO metric:counter.traffic.total.rate,topic:flink-in,value:0
+Mon, 18 Jan 2016 13:55:32 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:37 UTC)" (scheduled at 2016-01-18 05:55:32.693226+00:00)
+Mon, 18 Jan 2016 13:55:32 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:37 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:32 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:37 UTC)" (scheduled at 2016-01-18 05:55:32.693461+00:00)
+Mon, 18 Jan 2016 13:55:32 monitor.py[line:35] INFO metric:counter.traffic.total,topic:alert-flink-in2,value:11245
+Mon, 18 Jan 2016 13:55:32 monitor.py[line:35] INFO metric:counter.traffic.processed,topic:flink-in,value:108748062
+Mon, 18 Jan 2016 13:55:32 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:37 UTC)" (scheduled at 2016-01-18 05:55:32.693709+00:00)
+Mon, 18 Jan 2016 13:55:32 monitor.py[line:41] INFO metric:counter.traffic.processed.rate,topic:flink-in,value:0
+Mon, 18 Jan 2016 13:55:32 monitor.py[line:41] INFO metric:counter.traffic.total.rate,topic:alert-flink-in2,value:0
+Mon, 18 Jan 2016 13:55:32 monitor.py[line:35] INFO metric:counter.traffic.processed,topic:alert-flink-in2,value:1979417
+Mon, 18 Jan 2016 13:55:32 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:37 UTC)" (scheduled at 2016-01-18 05:55:32.693945+00:00)
+Mon, 18 Jan 2016 13:55:32 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:37 UTC)" (scheduled at 2016-01-18 05:55:32.694169+00:00)
+Mon, 18 Jan 2016 13:55:32 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:37 UTC)" (scheduled at 2016-01-18 05:55:32.694398+00:00)
+Mon, 18 Jan 2016 13:55:32 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:37 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:32 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:37 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:32 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:37 UTC)" (scheduled at 2016-01-18 05:55:32.694619+00:00)
+Mon, 18 Jan 2016 13:55:32 monitor.py[line:41] INFO metric:counter.traffic.processed.rate,topic:alert-flink-in2,value:0
+Mon, 18 Jan 2016 13:55:32 monitor.py[line:27] INFO metric:counter.traffic.jsonexception,topic:flink-in,value:1
+Mon, 18 Jan 2016 13:55:32 monitor.py[line:27] INFO metric:counter.traffic.jsonexception,topic:alert-flink-in2,value:2
+Mon, 18 Jan 2016 13:55:32 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:37 UTC)" (scheduled at 2016-01-18 05:55:32.694842+00:00)
+Mon, 18 Jan 2016 13:55:32 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:37 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:32 monitor.py[line:27] INFO metric:counter.traffic.checkfailure,topic:flink-in,value:2
+Mon, 18 Jan 2016 13:55:32 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:37 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:32 monitor.py[line:27] INFO metric:counter.traffic.checkfailure,topic:alert-flink-in2,value:3
+Mon, 18 Jan 2016 13:55:32 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:37 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:32 monitor.py[line:27] INFO metric:counter.traffic.rulemissing,topic:flink-in,value:4
+Mon, 18 Jan 2016 13:55:32 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:37 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:32 monitor.py[line:27] INFO metric:counter.traffic.rulemissing,topic:alert-flink-in2,value:5
+Mon, 18 Jan 2016 13:55:32 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:37 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:32 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:37 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:32 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:37 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:37 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:37 UTC)" (scheduled at 2016-01-18 05:55:37.692294+00:00)
+Mon, 18 Jan 2016 13:55:37 monitor.py[line:35] INFO metric:counter.traffic.total,topic:flink-in,value:11245
+Mon, 18 Jan 2016 13:55:37 monitor.py[line:41] INFO metric:counter.traffic.total.rate,topic:flink-in,value:0
+Mon, 18 Jan 2016 13:55:37 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:37 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:37 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:37 UTC)" (scheduled at 2016-01-18 05:55:37.692979+00:00)
+Mon, 18 Jan 2016 13:55:37 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:42 UTC)" (scheduled at 2016-01-18 05:55:37.693226+00:00)
+Mon, 18 Jan 2016 13:55:37 monitor.py[line:35] INFO metric:counter.traffic.total,topic:alert-flink-in2,value:11245
+Mon, 18 Jan 2016 13:55:37 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:37 UTC)" (scheduled at 2016-01-18 05:55:37.693461+00:00)
+Mon, 18 Jan 2016 13:55:37 monitor.py[line:35] INFO metric:counter.traffic.processed,topic:flink-in,value:108748062
+Mon, 18 Jan 2016 13:55:37 monitor.py[line:41] INFO metric:counter.traffic.total.rate,topic:alert-flink-in2,value:0
+Mon, 18 Jan 2016 13:55:37 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:37 UTC)" (scheduled at 2016-01-18 05:55:37.693709+00:00)
+Mon, 18 Jan 2016 13:55:37 monitor.py[line:35] INFO metric:counter.traffic.processed,topic:alert-flink-in2,value:1979417
+Mon, 18 Jan 2016 13:55:37 monitor.py[line:41] INFO metric:counter.traffic.processed.rate,topic:flink-in,value:0
+Mon, 18 Jan 2016 13:55:37 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:37 UTC)" (scheduled at 2016-01-18 05:55:37.693945+00:00)
+Mon, 18 Jan 2016 13:55:37 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:42 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:37 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:42 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:37 monitor.py[line:41] INFO metric:counter.traffic.processed.rate,topic:alert-flink-in2,value:0
+Mon, 18 Jan 2016 13:55:37 monitor.py[line:27] INFO metric:counter.traffic.jsonexception,topic:flink-in,value:1
+Mon, 18 Jan 2016 13:55:37 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:42 UTC)" (scheduled at 2016-01-18 05:55:37.694169+00:00)
+Mon, 18 Jan 2016 13:55:37 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:42 UTC)" (scheduled at 2016-01-18 05:55:37.694398+00:00)
+Mon, 18 Jan 2016 13:55:37 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:42 UTC)" (scheduled at 2016-01-18 05:55:37.694619+00:00)
+Mon, 18 Jan 2016 13:55:37 monitor.py[line:27] INFO metric:counter.traffic.jsonexception,topic:alert-flink-in2,value:2
+Mon, 18 Jan 2016 13:55:37 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:42 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:37 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:42 UTC)" (scheduled at 2016-01-18 05:55:37.694842+00:00)
+Mon, 18 Jan 2016 13:55:37 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:42 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:37 monitor.py[line:27] INFO metric:counter.traffic.checkfailure,topic:flink-in,value:2
+Mon, 18 Jan 2016 13:55:37 monitor.py[line:27] INFO metric:counter.traffic.rulemissing,topic:flink-in,value:4
+Mon, 18 Jan 2016 13:55:37 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:42 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:37 monitor.py[line:27] INFO metric:counter.traffic.checkfailure,topic:alert-flink-in2,value:3
+Mon, 18 Jan 2016 13:55:37 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:42 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:37 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:42 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:37 monitor.py[line:27] INFO metric:counter.traffic.rulemissing,topic:alert-flink-in2,value:5
+Mon, 18 Jan 2016 13:55:37 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:42 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:37 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:42 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:42 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:47 UTC)" (scheduled at 2016-01-18 05:55:42.692294+00:00)
+Mon, 18 Jan 2016 13:55:42 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:47 UTC)" (scheduled at 2016-01-18 05:55:42.692979+00:00)
+Mon, 18 Jan 2016 13:55:42 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:47 UTC)" (scheduled at 2016-01-18 05:55:42.693226+00:00)
+Mon, 18 Jan 2016 13:55:42 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:47 UTC)" (scheduled at 2016-01-18 05:55:42.693461+00:00)
+Mon, 18 Jan 2016 13:55:42 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:47 UTC)" (scheduled at 2016-01-18 05:55:42.693709+00:00)
+Mon, 18 Jan 2016 13:55:42 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:47 UTC)" (scheduled at 2016-01-18 05:55:42.693945+00:00)
+Mon, 18 Jan 2016 13:55:42 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:47 UTC)" (scheduled at 2016-01-18 05:55:42.694169+00:00)
+Mon, 18 Jan 2016 13:55:42 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:47 UTC)" (scheduled at 2016-01-18 05:55:42.694398+00:00)
+Mon, 18 Jan 2016 13:55:42 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:47 UTC)" (scheduled at 2016-01-18 05:55:42.694619+00:00)
+Mon, 18 Jan 2016 13:55:42 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:47 UTC)" (scheduled at 2016-01-18 05:55:42.694842+00:00)
+Mon, 18 Jan 2016 13:55:42 monitor.py[line:27] INFO metric:counter.traffic.rulemissing,topic:alert-flink-in2,value:5
+Mon, 18 Jan 2016 13:55:42 monitor.py[line:35] INFO metric:counter.traffic.total,topic:alert-flink-in2,value:11245
+Mon, 18 Jan 2016 13:55:42 monitor.py[line:27] INFO metric:counter.traffic.checkfailure,topic:flink-in,value:2
+Mon, 18 Jan 2016 13:55:42 monitor.py[line:27] INFO metric:counter.traffic.checkfailure,topic:alert-flink-in2,value:3
+Mon, 18 Jan 2016 13:55:42 monitor.py[line:27] INFO metric:counter.traffic.rulemissing,topic:flink-in,value:4
+Mon, 18 Jan 2016 13:55:42 monitor.py[line:27] INFO metric:counter.traffic.jsonexception,topic:alert-flink-in2,value:2
+Mon, 18 Jan 2016 13:55:42 monitor.py[line:27] INFO metric:counter.traffic.jsonexception,topic:flink-in,value:1
+Mon, 18 Jan 2016 13:55:42 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:47 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:42 monitor.py[line:35] INFO metric:counter.traffic.processed,topic:alert-flink-in2,value:1979417
+Mon, 18 Jan 2016 13:55:42 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:47 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:42 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:47 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:42 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:47 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:42 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:47 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:42 monitor.py[line:35] INFO metric:counter.traffic.processed,topic:flink-in,value:108748062
+Mon, 18 Jan 2016 13:55:42 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:47 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:42 monitor.py[line:41] INFO metric:counter.traffic.total.rate,topic:alert-flink-in2,value:0
+Mon, 18 Jan 2016 13:55:42 monitor.py[line:41] INFO metric:counter.traffic.processed.rate,topic:alert-flink-in2,value:0
+Mon, 18 Jan 2016 13:55:42 monitor.py[line:41] INFO metric:counter.traffic.processed.rate,topic:flink-in,value:0
+Mon, 18 Jan 2016 13:55:42 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:47 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:42 monitor.py[line:35] INFO metric:counter.traffic.total,topic:flink-in,value:11245
+Mon, 18 Jan 2016 13:55:42 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:47 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:42 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:47 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:42 monitor.py[line:41] INFO metric:counter.traffic.total.rate,topic:flink-in,value:0
+Mon, 18 Jan 2016 13:55:42 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:47 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:47 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:52 UTC)" (scheduled at 2016-01-18 05:55:47.692979+00:00)
+Mon, 18 Jan 2016 13:55:47 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:52 UTC)" (scheduled at 2016-01-18 05:55:47.692294+00:00)
+Mon, 18 Jan 2016 13:55:47 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:52 UTC)" (scheduled at 2016-01-18 05:55:47.693226+00:00)
+Mon, 18 Jan 2016 13:55:47 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:52 UTC)" (scheduled at 2016-01-18 05:55:47.693461+00:00)
+Mon, 18 Jan 2016 13:55:47 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:52 UTC)" (scheduled at 2016-01-18 05:55:47.693709+00:00)
+Mon, 18 Jan 2016 13:55:47 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:52 UTC)" (scheduled at 2016-01-18 05:55:47.693945+00:00)
+Mon, 18 Jan 2016 13:55:47 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:52 UTC)" (scheduled at 2016-01-18 05:55:47.694169+00:00)
+Mon, 18 Jan 2016 13:55:47 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:52 UTC)" (scheduled at 2016-01-18 05:55:47.694398+00:00)
+Mon, 18 Jan 2016 13:55:47 monitor.py[line:35] INFO metric:counter.traffic.processed,topic:flink-in,value:108748062
+Mon, 18 Jan 2016 13:55:47 monitor.py[line:35] INFO metric:counter.traffic.processed,topic:alert-flink-in2,value:1979417
+Mon, 18 Jan 2016 13:55:47 monitor.py[line:27] INFO metric:counter.traffic.jsonexception,topic:alert-flink-in2,value:2
+Mon, 18 Jan 2016 13:55:47 monitor.py[line:27] INFO metric:counter.traffic.checkfailure,topic:alert-flink-in2,value:3
+Mon, 18 Jan 2016 13:55:47 monitor.py[line:35] INFO metric:counter.traffic.total,topic:alert-flink-in2,value:11245
+Mon, 18 Jan 2016 13:55:47 monitor.py[line:27] INFO metric:counter.traffic.checkfailure,topic:flink-in,value:2
+Mon, 18 Jan 2016 13:55:47 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:52 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:47 monitor.py[line:41] INFO metric:counter.traffic.processed.rate,topic:alert-flink-in2,value:0
+Mon, 18 Jan 2016 13:55:47 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:52 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:47 monitor.py[line:41] INFO metric:counter.traffic.total.rate,topic:alert-flink-in2,value:0
+Mon, 18 Jan 2016 13:55:47 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:52 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:47 monitor.py[line:41] INFO metric:counter.traffic.processed.rate,topic:flink-in,value:0
+Mon, 18 Jan 2016 13:55:47 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:52 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:47 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:52 UTC)" (scheduled at 2016-01-18 05:55:47.694619+00:00)
+Mon, 18 Jan 2016 13:55:47 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:52 UTC)" (scheduled at 2016-01-18 05:55:47.694842+00:00)
+Mon, 18 Jan 2016 13:55:47 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:52 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:47 monitor.py[line:27] INFO metric:counter.traffic.rulemissing,topic:alert-flink-in2,value:5
+Mon, 18 Jan 2016 13:55:47 monitor.py[line:27] INFO metric:counter.traffic.rulemissing,topic:flink-in,value:4
+Mon, 18 Jan 2016 13:55:47 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:52 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:47 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:52 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:47 monitor.py[line:35] INFO metric:counter.traffic.total,topic:flink-in,value:11245
+Mon, 18 Jan 2016 13:55:47 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:52 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:47 monitor.py[line:27] INFO metric:counter.traffic.jsonexception,topic:flink-in,value:1
+Mon, 18 Jan 2016 13:55:47 monitor.py[line:41] INFO metric:counter.traffic.total.rate,topic:flink-in,value:0
+Mon, 18 Jan 2016 13:55:47 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:52 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:47 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:52 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:52 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:57 UTC)" (scheduled at 2016-01-18 05:55:52.692294+00:00)
+Mon, 18 Jan 2016 13:55:52 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:57 UTC)" (scheduled at 2016-01-18 05:55:52.692979+00:00)
+Mon, 18 Jan 2016 13:55:52 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:57 UTC)" (scheduled at 2016-01-18 05:55:52.693226+00:00)
+Mon, 18 Jan 2016 13:55:52 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:57 UTC)" (scheduled at 2016-01-18 05:55:52.693461+00:00)
+Mon, 18 Jan 2016 13:55:52 monitor.py[line:35] INFO metric:counter.traffic.total,topic:alert-flink-in2,value:11245
+Mon, 18 Jan 2016 13:55:52 monitor.py[line:35] INFO metric:counter.traffic.total,topic:flink-in,value:11245
+Mon, 18 Jan 2016 13:55:52 monitor.py[line:35] INFO metric:counter.traffic.processed,topic:alert-flink-in2,value:1979417
+Mon, 18 Jan 2016 13:55:52 monitor.py[line:41] INFO metric:counter.traffic.total.rate,topic:alert-flink-in2,value:0
+Mon, 18 Jan 2016 13:55:52 monitor.py[line:35] INFO metric:counter.traffic.processed,topic:flink-in,value:108748062
+Mon, 18 Jan 2016 13:55:52 monitor.py[line:41] INFO metric:counter.traffic.processed.rate,topic:alert-flink-in2,value:0
+Mon, 18 Jan 2016 13:55:52 monitor.py[line:41] INFO metric:counter.traffic.total.rate,topic:flink-in,value:0
+Mon, 18 Jan 2016 13:55:52 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:57 UTC)" (scheduled at 2016-01-18 05:55:52.693709+00:00)
+Mon, 18 Jan 2016 13:55:52 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:57 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:52 monitor.py[line:41] INFO metric:counter.traffic.processed.rate,topic:flink-in,value:0
+Mon, 18 Jan 2016 13:55:52 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:57 UTC)" (scheduled at 2016-01-18 05:55:52.693945+00:00)
+Mon, 18 Jan 2016 13:55:52 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:57 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:52 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:57 UTC)" (scheduled at 2016-01-18 05:55:52.694169+00:00)
+Mon, 18 Jan 2016 13:55:52 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:57 UTC)" (scheduled at 2016-01-18 05:55:52.694398+00:00)
+Mon, 18 Jan 2016 13:55:52 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:57 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:52 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:57 UTC)" (scheduled at 2016-01-18 05:55:52.694619+00:00)
+Mon, 18 Jan 2016 13:55:52 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:57 UTC)" (scheduled at 2016-01-18 05:55:52.694842+00:00)
+Mon, 18 Jan 2016 13:55:52 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:57 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:52 monitor.py[line:27] INFO metric:counter.traffic.jsonexception,topic:flink-in,value:1
+Mon, 18 Jan 2016 13:55:52 monitor.py[line:27] INFO metric:counter.traffic.jsonexception,topic:alert-flink-in2,value:2
+Mon, 18 Jan 2016 13:55:52 monitor.py[line:27] INFO metric:counter.traffic.checkfailure,topic:alert-flink-in2,value:3
+Mon, 18 Jan 2016 13:55:52 monitor.py[line:27] INFO metric:counter.traffic.checkfailure,topic:flink-in,value:2
+Mon, 18 Jan 2016 13:55:52 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:57 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:52 monitor.py[line:27] INFO metric:counter.traffic.rulemissing,topic:flink-in,value:4
+Mon, 18 Jan 2016 13:55:52 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:57 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:52 monitor.py[line:27] INFO metric:counter.traffic.rulemissing,topic:alert-flink-in2,value:5
+Mon, 18 Jan 2016 13:55:52 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:57 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:52 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:57 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:52 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:57 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:52 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:55:57 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:57 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:02 UTC)" (scheduled at 2016-01-18 05:55:57.692294+00:00)
+Mon, 18 Jan 2016 13:55:57 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:02 UTC)" (scheduled at 2016-01-18 05:55:57.692979+00:00)
+Mon, 18 Jan 2016 13:55:57 monitor.py[line:35] INFO metric:counter.traffic.total,topic:flink-in,value:11245
+Mon, 18 Jan 2016 13:55:57 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:02 UTC)" (scheduled at 2016-01-18 05:55:57.693226+00:00)
+Mon, 18 Jan 2016 13:55:57 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:02 UTC)" (scheduled at 2016-01-18 05:55:57.693461+00:00)
+Mon, 18 Jan 2016 13:55:57 monitor.py[line:35] INFO metric:counter.traffic.total,topic:alert-flink-in2,value:11245
+Mon, 18 Jan 2016 13:55:57 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:02 UTC)" (scheduled at 2016-01-18 05:55:57.693709+00:00)
+Mon, 18 Jan 2016 13:55:57 monitor.py[line:41] INFO metric:counter.traffic.total.rate,topic:flink-in,value:0
+Mon, 18 Jan 2016 13:55:57 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:02 UTC)" (scheduled at 2016-01-18 05:55:57.693945+00:00)
+Mon, 18 Jan 2016 13:55:57 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:02 UTC)" (scheduled at 2016-01-18 05:55:57.694169+00:00)
+Mon, 18 Jan 2016 13:55:57 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:02 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:57 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:02 UTC)" (scheduled at 2016-01-18 05:55:57.694398+00:00)
+Mon, 18 Jan 2016 13:55:57 monitor.py[line:41] INFO metric:counter.traffic.total.rate,topic:alert-flink-in2,value:0
+Mon, 18 Jan 2016 13:55:57 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:02 UTC)" (scheduled at 2016-01-18 05:55:57.694842+00:00)
+Mon, 18 Jan 2016 13:55:57 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:02 UTC)" (scheduled at 2016-01-18 05:55:57.694619+00:00)
+Mon, 18 Jan 2016 13:55:57 monitor.py[line:35] INFO metric:counter.traffic.processed,topic:flink-in,value:108748062
+Mon, 18 Jan 2016 13:55:57 monitor.py[line:27] INFO metric:counter.traffic.jsonexception,topic:flink-in,value:1
+Mon, 18 Jan 2016 13:55:57 monitor.py[line:35] INFO metric:counter.traffic.processed,topic:alert-flink-in2,value:1979417
+Mon, 18 Jan 2016 13:55:57 monitor.py[line:27] INFO metric:counter.traffic.jsonexception,topic:alert-flink-in2,value:2
+Mon, 18 Jan 2016 13:55:57 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:02 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:57 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:02 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:57 monitor.py[line:27] INFO metric:counter.traffic.checkfailure,topic:flink-in,value:2
+Mon, 18 Jan 2016 13:55:57 monitor.py[line:27] INFO metric:counter.traffic.checkfailure,topic:alert-flink-in2,value:3
+Mon, 18 Jan 2016 13:55:57 monitor.py[line:27] INFO metric:counter.traffic.rulemissing,topic:flink-in,value:4
+Mon, 18 Jan 2016 13:55:57 monitor.py[line:41] INFO metric:counter.traffic.processed.rate,topic:flink-in,value:0
+Mon, 18 Jan 2016 13:55:57 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:02 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:57 monitor.py[line:41] INFO metric:counter.traffic.processed.rate,topic:alert-flink-in2,value:0
+Mon, 18 Jan 2016 13:55:57 monitor.py[line:27] INFO metric:counter.traffic.rulemissing,topic:alert-flink-in2,value:5
+Mon, 18 Jan 2016 13:55:57 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:02 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:57 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:02 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:57 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:02 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:57 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:02 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:57 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:02 UTC)" executed successfully
+Mon, 18 Jan 2016 13:55:57 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:02 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:02 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:07 UTC)" (scheduled at 2016-01-18 05:56:02.692294+00:00)
+Mon, 18 Jan 2016 13:56:02 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:07 UTC)" (scheduled at 2016-01-18 05:56:02.692979+00:00)
+Mon, 18 Jan 2016 13:56:02 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:07 UTC)" (scheduled at 2016-01-18 05:56:02.693226+00:00)
+Mon, 18 Jan 2016 13:56:02 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:07 UTC)" (scheduled at 2016-01-18 05:56:02.693461+00:00)
+Mon, 18 Jan 2016 13:56:02 monitor.py[line:35] INFO metric:counter.traffic.total,topic:flink-in,value:11245
+Mon, 18 Jan 2016 13:56:02 monitor.py[line:35] INFO metric:counter.traffic.total,topic:alert-flink-in2,value:11245
+Mon, 18 Jan 2016 13:56:02 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:07 UTC)" (scheduled at 2016-01-18 05:56:02.693709+00:00)
+Mon, 18 Jan 2016 13:56:02 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:07 UTC)" (scheduled at 2016-01-18 05:56:02.693945+00:00)
+Mon, 18 Jan 2016 13:56:02 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:07 UTC)" (scheduled at 2016-01-18 05:56:02.694169+00:00)
+Mon, 18 Jan 2016 13:56:02 monitor.py[line:41] INFO metric:counter.traffic.total.rate,topic:flink-in,value:0
+Mon, 18 Jan 2016 13:56:02 monitor.py[line:35] INFO metric:counter.traffic.processed,topic:alert-flink-in2,value:1979417
+Mon, 18 Jan 2016 13:56:02 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:07 UTC)" (scheduled at 2016-01-18 05:56:02.694398+00:00)
+Mon, 18 Jan 2016 13:56:02 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:07 UTC)" (scheduled at 2016-01-18 05:56:02.694619+00:00)
+Mon, 18 Jan 2016 13:56:02 monitor.py[line:41] INFO metric:counter.traffic.total.rate,topic:alert-flink-in2,value:0
+Mon, 18 Jan 2016 13:56:02 monitor.py[line:35] INFO metric:counter.traffic.processed,topic:flink-in,value:108748062
+Mon, 18 Jan 2016 13:56:02 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:07 UTC)" (scheduled at 2016-01-18 05:56:02.694842+00:00)
+Mon, 18 Jan 2016 13:56:02 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:07 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:02 monitor.py[line:27] INFO metric:counter.traffic.jsonexception,topic:flink-in,value:1
+Mon, 18 Jan 2016 13:56:02 monitor.py[line:41] INFO metric:counter.traffic.processed.rate,topic:alert-flink-in2,value:0
+Mon, 18 Jan 2016 13:56:02 monitor.py[line:27] INFO metric:counter.traffic.checkfailure,topic:flink-in,value:2
+Mon, 18 Jan 2016 13:56:02 monitor.py[line:27] INFO metric:counter.traffic.jsonexception,topic:alert-flink-in2,value:2
+Mon, 18 Jan 2016 13:56:02 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:07 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:02 monitor.py[line:27] INFO metric:counter.traffic.checkfailure,topic:alert-flink-in2,value:3
+Mon, 18 Jan 2016 13:56:02 monitor.py[line:41] INFO metric:counter.traffic.processed.rate,topic:flink-in,value:0
+Mon, 18 Jan 2016 13:56:02 monitor.py[line:27] INFO metric:counter.traffic.rulemissing,topic:flink-in,value:4
+Mon, 18 Jan 2016 13:56:02 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:07 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:02 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:07 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:02 monitor.py[line:27] INFO metric:counter.traffic.rulemissing,topic:alert-flink-in2,value:5
+Mon, 18 Jan 2016 13:56:02 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:07 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:02 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:07 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:02 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:07 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:02 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:07 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:02 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:07 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:02 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:07 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:07 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:12 UTC)" (scheduled at 2016-01-18 05:56:07.692294+00:00)
+Mon, 18 Jan 2016 13:56:07 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:12 UTC)" (scheduled at 2016-01-18 05:56:07.692979+00:00)
+Mon, 18 Jan 2016 13:56:07 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:12 UTC)" (scheduled at 2016-01-18 05:56:07.693226+00:00)
+Mon, 18 Jan 2016 13:56:07 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:12 UTC)" (scheduled at 2016-01-18 05:56:07.693461+00:00)
+Mon, 18 Jan 2016 13:56:07 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:12 UTC)" (scheduled at 2016-01-18 05:56:07.693709+00:00)
+Mon, 18 Jan 2016 13:56:07 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:12 UTC)" (scheduled at 2016-01-18 05:56:07.693945+00:00)
+Mon, 18 Jan 2016 13:56:07 monitor.py[line:35] INFO metric:counter.traffic.total,topic:alert-flink-in2,value:11245
+Mon, 18 Jan 2016 13:56:07 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:12 UTC)" (scheduled at 2016-01-18 05:56:07.694169+00:00)
+Mon, 18 Jan 2016 13:56:07 monitor.py[line:35] INFO metric:counter.traffic.total,topic:flink-in,value:11245
+Mon, 18 Jan 2016 13:56:07 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:12 UTC)" (scheduled at 2016-01-18 05:56:07.694398+00:00)
+Mon, 18 Jan 2016 13:56:07 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:12 UTC)" (scheduled at 2016-01-18 05:56:07.694619+00:00)
+Mon, 18 Jan 2016 13:56:07 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:12 UTC)" (scheduled at 2016-01-18 05:56:07.694842+00:00)
+Mon, 18 Jan 2016 13:56:07 monitor.py[line:35] INFO metric:counter.traffic.processed,topic:flink-in,value:108748062
+Mon, 18 Jan 2016 13:56:07 monitor.py[line:35] INFO metric:counter.traffic.processed,topic:alert-flink-in2,value:1979417
+Mon, 18 Jan 2016 13:56:07 monitor.py[line:41] INFO metric:counter.traffic.total.rate,topic:alert-flink-in2,value:0
+Mon, 18 Jan 2016 13:56:07 monitor.py[line:27] INFO metric:counter.traffic.jsonexception,topic:alert-flink-in2,value:2
+Mon, 18 Jan 2016 13:56:07 monitor.py[line:27] INFO metric:counter.traffic.jsonexception,topic:flink-in,value:1
+Mon, 18 Jan 2016 13:56:07 monitor.py[line:27] INFO metric:counter.traffic.checkfailure,topic:flink-in,value:2
+Mon, 18 Jan 2016 13:56:07 monitor.py[line:41] INFO metric:counter.traffic.total.rate,topic:flink-in,value:0
+Mon, 18 Jan 2016 13:56:07 monitor.py[line:27] INFO metric:counter.traffic.checkfailure,topic:alert-flink-in2,value:3
+Mon, 18 Jan 2016 13:56:07 monitor.py[line:27] INFO metric:counter.traffic.rulemissing,topic:flink-in,value:4
+Mon, 18 Jan 2016 13:56:07 monitor.py[line:41] INFO metric:counter.traffic.processed.rate,topic:flink-in,value:0
+Mon, 18 Jan 2016 13:56:07 monitor.py[line:41] INFO metric:counter.traffic.processed.rate,topic:alert-flink-in2,value:0
+Mon, 18 Jan 2016 13:56:07 monitor.py[line:27] INFO metric:counter.traffic.rulemissing,topic:alert-flink-in2,value:5
+Mon, 18 Jan 2016 13:56:07 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:12 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:07 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:12 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:07 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:12 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:07 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:12 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:07 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:12 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:07 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:12 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:07 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:12 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:07 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:12 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:07 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:12 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:07 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:12 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:12 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:17 UTC)" (scheduled at 2016-01-18 05:56:12.692294+00:00)
+Mon, 18 Jan 2016 13:56:12 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:17 UTC)" (scheduled at 2016-01-18 05:56:12.692979+00:00)
+Mon, 18 Jan 2016 13:56:12 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:17 UTC)" (scheduled at 2016-01-18 05:56:12.693461+00:00)
+Mon, 18 Jan 2016 13:56:12 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:17 UTC)" (scheduled at 2016-01-18 05:56:12.693226+00:00)
+Mon, 18 Jan 2016 13:56:12 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:17 UTC)" (scheduled at 2016-01-18 05:56:12.693709+00:00)
+Mon, 18 Jan 2016 13:56:12 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:17 UTC)" (scheduled at 2016-01-18 05:56:12.693945+00:00)
+Mon, 18 Jan 2016 13:56:12 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:17 UTC)" (scheduled at 2016-01-18 05:56:12.694169+00:00)
+Mon, 18 Jan 2016 13:56:12 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:17 UTC)" (scheduled at 2016-01-18 05:56:12.694398+00:00)
+Mon, 18 Jan 2016 13:56:12 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:17 UTC)" (scheduled at 2016-01-18 05:56:12.694619+00:00)
+Mon, 18 Jan 2016 13:56:12 monitor.py[line:35] INFO metric:counter.traffic.total,topic:alert-flink-in2,value:11245
+Mon, 18 Jan 2016 13:56:12 monitor.py[line:35] INFO metric:counter.traffic.total,topic:flink-in,value:11245
+Mon, 18 Jan 2016 13:56:12 monitor.py[line:27] INFO metric:counter.traffic.jsonexception,topic:flink-in,value:1
+Mon, 18 Jan 2016 13:56:12 monitor.py[line:35] INFO metric:counter.traffic.processed,topic:flink-in,value:108748062
+Mon, 18 Jan 2016 13:56:12 monitor.py[line:35] INFO metric:counter.traffic.processed,topic:alert-flink-in2,value:1979417
+Mon, 18 Jan 2016 13:56:12 monitor.py[line:27] INFO metric:counter.traffic.jsonexception,topic:alert-flink-in2,value:2
+Mon, 18 Jan 2016 13:56:12 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:17 UTC)" (scheduled at 2016-01-18 05:56:12.694842+00:00)
+Mon, 18 Jan 2016 13:56:12 monitor.py[line:27] INFO metric:counter.traffic.checkfailure,topic:flink-in,value:2
+Mon, 18 Jan 2016 13:56:12 monitor.py[line:41] INFO metric:counter.traffic.total.rate,topic:alert-flink-in2,value:0
+Mon, 18 Jan 2016 13:56:12 monitor.py[line:41] INFO metric:counter.traffic.total.rate,topic:flink-in,value:0
+Mon, 18 Jan 2016 13:56:12 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:17 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:12 monitor.py[line:27] INFO metric:counter.traffic.checkfailure,topic:alert-flink-in2,value:3
+Mon, 18 Jan 2016 13:56:12 monitor.py[line:27] INFO metric:counter.traffic.rulemissing,topic:flink-in,value:4
+Mon, 18 Jan 2016 13:56:12 monitor.py[line:41] INFO metric:counter.traffic.processed.rate,topic:flink-in,value:0
+Mon, 18 Jan 2016 13:56:12 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:17 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:12 monitor.py[line:41] INFO metric:counter.traffic.processed.rate,topic:alert-flink-in2,value:0
+Mon, 18 Jan 2016 13:56:12 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:17 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:12 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:17 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:12 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:17 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:12 monitor.py[line:27] INFO metric:counter.traffic.rulemissing,topic:alert-flink-in2,value:5
+Mon, 18 Jan 2016 13:56:12 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:17 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:12 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:17 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:12 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:17 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:12 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:17 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:12 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:17 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:17 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:22 UTC)" (scheduled at 2016-01-18 05:56:17.692294+00:00)
+Mon, 18 Jan 2016 13:56:17 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:22 UTC)" (scheduled at 2016-01-18 05:56:17.692979+00:00)
+Mon, 18 Jan 2016 13:56:17 monitor.py[line:35] INFO metric:counter.traffic.total,topic:flink-in,value:11245
+Mon, 18 Jan 2016 13:56:17 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:22 UTC)" (scheduled at 2016-01-18 05:56:17.693226+00:00)
+Mon, 18 Jan 2016 13:56:17 base.py[line:110] INFO Running job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:22 UTC)" (scheduled at 2016-01-18 05:56:17.693461+00:00)
+Mon, 18 Jan 2016 13:56:17 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:22 UTC)" (scheduled at 2016-01-18 05:56:17.693709+00:00)
+Mon, 18 Jan 2016 13:56:17 monitor.py[line:41] INFO metric:counter.traffic.total.rate,topic:flink-in,value:0
+Mon, 18 Jan 2016 13:56:17 monitor.py[line:35] INFO metric:counter.traffic.total,topic:alert-flink-in2,value:11245
+Mon, 18 Jan 2016 13:56:17 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:22 UTC)" (scheduled at 2016-01-18 05:56:17.693945+00:00)
+Mon, 18 Jan 2016 13:56:17 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:22 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:17 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:22 UTC)" (scheduled at 2016-01-18 05:56:17.694169+00:00)
+Mon, 18 Jan 2016 13:56:17 monitor.py[line:41] INFO metric:counter.traffic.total.rate,topic:alert-flink-in2,value:0
+Mon, 18 Jan 2016 13:56:17 monitor.py[line:35] INFO metric:counter.traffic.processed,topic:flink-in,value:108748062
+Mon, 18 Jan 2016 13:56:17 monitor.py[line:35] INFO metric:counter.traffic.processed,topic:alert-flink-in2,value:1979417
+Mon, 18 Jan 2016 13:56:17 monitor.py[line:27] INFO metric:counter.traffic.jsonexception,topic:flink-in,value:1
+Mon, 18 Jan 2016 13:56:17 monitor.py[line:27] INFO metric:counter.traffic.jsonexception,topic:alert-flink-in2,value:2
+Mon, 18 Jan 2016 13:56:17 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:22 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:17 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:22 UTC)" (scheduled at 2016-01-18 05:56:17.694398+00:00)
+Mon, 18 Jan 2016 13:56:17 monitor.py[line:41] INFO metric:counter.traffic.processed.rate,topic:alert-flink-in2,value:0
+Mon, 18 Jan 2016 13:56:17 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:22 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:17 monitor.py[line:27] INFO metric:counter.traffic.checkfailure,topic:flink-in,value:2
+Mon, 18 Jan 2016 13:56:17 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:22 UTC)" (scheduled at 2016-01-18 05:56:17.694619+00:00)
+Mon, 18 Jan 2016 13:56:17 monitor.py[line:41] INFO metric:counter.traffic.processed.rate,topic:flink-in,value:0
+Mon, 18 Jan 2016 13:56:17 base.py[line:110] INFO Running job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:22 UTC)" (scheduled at 2016-01-18 05:56:17.694842+00:00)
+Mon, 18 Jan 2016 13:56:17 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:22 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:17 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:22 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:17 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:22 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:17 monitor.py[line:27] INFO metric:counter.traffic.checkfailure,topic:alert-flink-in2,value:3
+Mon, 18 Jan 2016 13:56:17 base.py[line:121] INFO Job "Data.metricRate (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:22 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:17 monitor.py[line:27] INFO metric:counter.traffic.rulemissing,topic:flink-in,value:4
+Mon, 18 Jan 2016 13:56:17 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:22 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:17 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:22 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:17 monitor.py[line:27] INFO metric:counter.traffic.rulemissing,topic:alert-flink-in2,value:5
+Mon, 18 Jan 2016 13:56:17 base.py[line:121] INFO Job "Data.metric (trigger: interval[0:00:05], next run at: 2016-01-18 05:56:22 UTC)" executed successfully
+Mon, 18 Jan 2016 13:56:21 base.py[line:159] INFO Scheduler has been shut down

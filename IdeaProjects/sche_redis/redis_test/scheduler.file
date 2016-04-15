@@ -1,0 +1,1578 @@
+('counter:traffic.total', 'flink-in')
+('counter:traffic.processed', 'flink-in')
+('counter:traffic.jsonexception', 'flink-in')
+('counter:traffic.checkfailure', 'flink-in')
+('counter:traffic.rulemissing', 'flink-in')
+counter:traffic.total;flink-in;1
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.total rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;685
+
+counter:traffic.total rate;flink-in;136
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.total;flink-in;717
+
+counter:traffic.total rate;flink-in;6
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;2155
+
+counter:traffic.total rate;flink-in;287
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;3675
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total rate;flink-in;304
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;4474
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.total rate;flink-in;159
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.total;flink-in;6015
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.total rate;flink-in;308
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;6626
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.total rate;flink-in;122
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total;flink-in;7498
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+counter:traffic.total rate;flink-in;174
+
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;7904
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total rate;flink-in;81
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;7904
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total rate;flink-in;0
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;9089
+
+counter:traffic.total rate;flink-in;237
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;9962
+
+counter:traffic.total rate;flink-in;174
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.total;flink-in;11876
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.total rate;flink-in;382
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;13543
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.total rate;flink-in;333
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;14693
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.total rate;flink-in;230
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.total;flink-in;14702
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.total rate;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;15961
+
+counter:traffic.total rate;flink-in;251
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+counter:traffic.checkfailure;flink-in;2
+
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.total;flink-in;17396
+
+counter:traffic.total rate;flink-in;287
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;19045
+
+counter:traffic.total rate;flink-in;329
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total;flink-in;20194
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.total rate;flink-in;229
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;20902
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total rate;flink-in;141
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;20986
+
+counter:traffic.total rate;flink-in;16
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;22320
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total rate;flink-in;266
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.checkfailure;flink-in;2
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.rulemissing;flink-in;4
+
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total;flink-in;23362
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.total rate;flink-in;208
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;23463
+
+counter:traffic.total rate;flink-in;20
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;23589
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.total rate;flink-in;25
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total;flink-in;24422
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.checkfailure;flink-in;2
+counter:traffic.total rate;flink-in;166
+
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;24528
+
+counter:traffic.total rate;flink-in;21
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;26496
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.total rate;flink-in;393
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;27645
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total rate;flink-in;229
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.total;flink-in;29403
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total rate;flink-in;351
+
+counter:traffic.processed rate;flink-in;0
+counter:traffic.checkfailure;flink-in;2
+
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.total;flink-in;29600
+
+counter:traffic.total rate;flink-in;39
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;31484
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.total rate;flink-in;376
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;33314
+
+counter:traffic.total rate;flink-in;366
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+counter:traffic.total;flink-in;34218
+
+
+counter:traffic.total rate;flink-in;180
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;36136
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.total rate;flink-in;383
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;37697
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.total rate;flink-in;312
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;37975
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.total rate;flink-in;55
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;39194
+
+counter:traffic.total rate;flink-in;243
+counter:traffic.processed;flink-in;64607798
+
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;41059
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total rate;flink-in;373
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total;flink-in;41545
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.total rate;flink-in;97
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;43478
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.total rate;flink-in;386
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total;flink-in;44698
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.jsonexception;flink-in;1
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.checkfailure;flink-in;2
+
+
+counter:traffic.total rate;flink-in;244
+
+counter:traffic.total;flink-in;46322
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.total rate;flink-in;324
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total;flink-in;47913
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.total rate;flink-in;318
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.total;flink-in;48261
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total rate;flink-in;69
+
+counter:traffic.total;flink-in;50014
+
+counter:traffic.total rate;flink-in;350
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.total;flink-in;51857
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total rate;flink-in;368
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.total;flink-in;52234
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.total rate;flink-in;75
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;52364
+
+counter:traffic.total rate;flink-in;26
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;52810
+counter:traffic.jsonexception;flink-in;1
+
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total rate;flink-in;89
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.total;flink-in;53521
+
+counter:traffic.total rate;flink-in;142
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.jsonexception;flink-in;1
+
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;55267
+
+counter:traffic.total rate;flink-in;349
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;56497
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.total rate;flink-in;246
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.total;flink-in;58365
+
+counter:traffic.total rate;flink-in;373
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;58964
+
+counter:traffic.total rate;flink-in;119
+counter:traffic.processed;flink-in;64607798
+
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;60596
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total rate;flink-in;326
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;61444
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.total rate;flink-in;169
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+counter:traffic.total;flink-in;61887
+
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total rate;flink-in;88
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.total;flink-in;61954
+
+counter:traffic.total rate;flink-in;13
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;63127
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total rate;flink-in;234
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;64580
+
+counter:traffic.jsonexception;flink-in;1
+counter:traffic.total rate;flink-in;290
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.checkfailure;flink-in;2
+
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.total;flink-in;64809
+
+counter:traffic.total rate;flink-in;45
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total;flink-in;64930
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.total rate;flink-in;24
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total;flink-in;66685
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.total rate;flink-in;351
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;67455
+
+counter:traffic.total rate;flink-in;154
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;67937
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total rate;flink-in;96
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total;flink-in;68764
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.total rate;flink-in;165
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;69297
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.total rate;flink-in;106
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.total;flink-in;69337
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.total rate;flink-in;8
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;69657
+
+counter:traffic.total rate;flink-in;64
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total;flink-in;71216
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.total rate;flink-in;311
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;71585
+
+counter:traffic.total rate;flink-in;73
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total;flink-in;72014
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total rate;flink-in;85
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+counter:traffic.processed;flink-in;64607798
+
+
+counter:traffic.total;flink-in;73103
+
+counter:traffic.total rate;flink-in;217
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;74136
+
+counter:traffic.total rate;flink-in;206
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;75186
+
+counter:traffic.total rate;flink-in;210
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;76984
+
+counter:traffic.total rate;flink-in;359
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;78117
+
+counter:traffic.total rate;flink-in;226
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.total;flink-in;78399
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.total rate;flink-in;56
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.checkfailure;flink-in;2
+
+
+counter:traffic.total;flink-in;79360
+
+counter:traffic.total rate;flink-in;192
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;80074
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.total rate;flink-in;142
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;81913
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total rate;flink-in;367
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.checkfailure;flink-in;2
+
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total;flink-in;81955
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.total rate;flink-in;8
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total;flink-in;83715
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.total rate;flink-in;352
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.processed;flink-in;64607798
+counter:traffic.total;flink-in;84364
+
+
+counter:traffic.total rate;flink-in;129
+
+counter:traffic.processed rate;flink-in;0
+counter:traffic.jsonexception;flink-in;1
+
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;85376
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.total rate;flink-in;202
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.rulemissing;flink-in;4
+counter:traffic.processed rate;flink-in;0
+
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.total;flink-in;85889
+
+counter:traffic.total rate;flink-in;102
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;85931
+
+counter:traffic.total rate;flink-in;8
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.jsonexception;flink-in;1
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.processed;flink-in;64607798
+counter:traffic.total;flink-in;86064
+
+counter:traffic.rulemissing;flink-in;4
+
+
+
+counter:traffic.total rate;flink-in;26
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.total;flink-in;87700
+
+counter:traffic.total rate;flink-in;327
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total;flink-in;89194
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.total rate;flink-in;298
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;90958
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total rate;flink-in;352
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total;flink-in;92658
+
+counter:traffic.total rate;flink-in;340
+
+counter:traffic.processed rate;flink-in;0
+counter:traffic.jsonexception;flink-in;1
+
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total;flink-in;94478
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.total rate;flink-in;364
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;96135
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.jsonexception;flink-in;1
+counter:traffic.processed rate;flink-in;0
+
+
+counter:traffic.total rate;flink-in;331
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;97630
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.total rate;flink-in;299
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.total;flink-in;97788
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed;flink-in;64607798
+counter:traffic.total rate;flink-in;31
+
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;99127
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total rate;flink-in;267
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;101064
+counter:traffic.processed;flink-in;64607798
+
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.total rate;flink-in;387
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;102269
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total rate;flink-in;241
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;102706
+
+counter:traffic.total rate;flink-in;87
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;103445
+
+counter:traffic.total rate;flink-in;147
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;104577
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total rate;flink-in;226
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;104758
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.total rate;flink-in;36
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;106565
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.total rate;flink-in;361
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.total;flink-in;108278
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.total rate;flink-in;342
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;110225
+
+counter:traffic.total rate;flink-in;389
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;111994
+
+counter:traffic.total rate;flink-in;353
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;112488
+
+counter:traffic.total rate;flink-in;98
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.total;flink-in;113697
+
+counter:traffic.total rate;flink-in;241
+
+counter:traffic.processed;flink-in;64607798
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+counter:traffic.jsonexception;flink-in;1
+
+
+counter:traffic.total;flink-in;115478
+
+counter:traffic.total rate;flink-in;356
+
+counter:traffic.jsonexception;flink-in;

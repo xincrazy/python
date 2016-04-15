@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<metainfo>
+    <schemaVersion>2.0</schemaVersion>
+    <services>
+        <service>
+            <name>MYSQL</name>
+            <displayName>Mysql</displayName>
+            <comment>MySQL is the world's most popular open source database</comment>
+            <version>5.6.29</version>
+            <components>
+                <component>
+                  <name>mysql</name>
+                  <displayName>mysql server</displayName>
+                  <category>SLAVE</category>
+                  <cardinality>1+</cardinality>
+                  <timelineAppid>mysql</timelineAppid>
+                  <commandScript>
+                    <script>scripts/master.py</script>
+                    <scriptType>PYTHON</scriptType>
+                    <timeout>10000</timeout>
+                  </commandScript>
+                </component>
+            </components>
+            <restartRequiredAfterChange>false</restartRequiredAfterChange>
+        </service>
+    </services>
+</metainfo>

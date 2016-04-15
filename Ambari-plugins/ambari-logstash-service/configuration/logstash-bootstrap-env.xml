@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<configuration>
+
+    <!-- params for service -->
+
+    <property>
+        <name>logstash.install_dir</name>
+        <value>/opt</value>
+        <description>This is logstash</description>
+    </property>
+
+    <property>
+        <name>logstash_log_dir</name>
+        <value>/var/log/logstash</value>
+        <description>logstash Log dir</description>
+    </property>
+
+    <property>
+        <name>logstash_pid_dir</name>
+        <value>/var/run/logstash</value>
+        <description>Dir containing process ID file</description>
+    </property>
+
+    <property>
+        <name>logstash_user</name>
+        <value>logstash</value>
+        <property-type>USER</property-type>
+        <description>User logstash daemon runs as</description>
+    </property>
+
+    <property>
+        <name>logstash_group</name>
+        <value>logstash</value>
+        <property-type>GROUP</property-type>
+        <description>logstash group</description>
+    </property>
+
+    <property>
+        <name>logstash_download_url</name>
+        <value>http://10.128.7.245/oneapm/logstash-2.2.2.zip</value>
+        <description>provide the url for downloading logstash.zip</description>
+    </property>
+
+
+</configuration>

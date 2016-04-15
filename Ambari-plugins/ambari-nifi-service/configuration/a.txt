@@ -1,0 +1,36 @@
+2016-03-22 05:02:00,025 - Group['elasticsearch'] {}
+2016-03-22 05:02:00,026 - Group['hadoop'] {}
+#2016-03-22 05:02:00,026 - Group['nifi'] {}
+2016-03-22 05:02:00,026 - User['elasticsearch'] {'gid': 'hadoop', 'fetch_nonlocal_groups': True, 'groups': ['hadoop']}
+2016-03-22 05:02:00,026 - User['ambari-qa'] {'gid': 'hadoop', 'fetch_nonlocal_groups': True, 'groups': ['users']}
+#2016-03-22 05:02:00,027 - User['nifi'] {'gid': 'hadoop', 'fetch_nonlocal_groups': True, 'groups': ['hadoop']}
+2016-03-22 05:02:00,027 - File['/var/lib/ambari-agent/tmp/changeUid.sh'] {'content': StaticFile('changeToSecureUid.sh'), 'mode': 0555}
+2016-03-22 05:02:00,028 - Execute['/var/lib/ambari-agent/tmp/changeUid.sh ambari-qa /tmp/hadoop-ambari-qa,/tmp/hsperfdata_ambari-qa,/home/ambari-qa,/tmp/ambari-qa,/tmp/sqoop-ambari-qa'] {'not_if': '(test $(id -u ambari-qa) -gt 1000) || (false)'}
+2016-03-22 05:02:00,031 - Skipping Execute['/var/lib/ambari-agent/tmp/changeUid.sh ambari-qa /tmp/hadoop-ambari-qa,/tmp/hsperfdata_ambari-qa,/home/ambari-qa,/tmp/ambari-qa,/tmp/sqoop-ambari-qa'] due to not_if
+2016-03-22 05:02:00,041 - Execute[('setenforce', '0')] {'not_if': '(! which getenforce ) || (which getenforce && getenforce | grep -q Disabled)', 'sudo': True, 'only_if': 'test -f /selinux/enforce'}
+2016-03-22 05:02:00,044 - Skipping Execute[('setenforce', '0')] due to not_if
+2016-03-22 05:02:00,133 - File['/opt/nifi-0.5.1.1.1.2.0-32/conf/nifi.properties'] {'owner': 'nifi', 'content': InlineTemplate(...), 'group': 'nifi'}
+2016-03-22 05:02:00,136 - File['/opt/nifi-0.5.1.1.1.2.0-32/conf/bootstrap.conf'] {'owner': 'nifi', 'content': InlineTemplate(...), 'group': 'nifi'}
+2016-03-22 05:02:00,140 - File['/opt/nifi-0.5.1.1.1.2.0-32/conf/logback.xml'] {'owner': 'nifi', 'content': InlineTemplate(...), 'group': 'nifi'}
+2016-03-22 05:02:00,141 - File['/opt/nifi-0.5.1.1.1.2.0-32/conf/state-management.xml'] {'owner': 'nifi', 'content': InlineTemplate(...), 'group': 'nifi'}
+2016-03-22 05:02:00,141 - Execute['echo pid file /var/run/nifi/nifi.pid'] {}
+2016-03-22 05:02:00,143 - Execute['echo JAVA_HOME=/usr/share/jdk1.8.0_65'] {}
+2016-03-22 05:02:00,145 - Execute['export JAVA_HOME=/usr/share/jdk1.8.0_65;/opt/nifi-0.5.1.1.1.2.0-32/bin/nifi.sh start >> /var/log/nifi/nifi-setup.log'] {'user': 'nifi'}
+2016-03-22 05:02:05,151 - Execute['cat /opt/nifi-0.5.1.1.1.2.0-32/bin/nifi.pid | grep pid | sed 's/pid=\(\.*\)/\1/' > /var/run/nifi/nifi.pid'] {}
+2016-03-22 05:02:05,154 - Execute['chown nifi:nifi /var/run/nifi/nifi.pid'] {}
+
+
+2016-03-22 04:58:34,715 - Group['elasticsearch'] {}
+2016-03-22 04:58:34,716 - Group['hadoop'] {}
+2016-03-22 04:58:34,716 - User['elasticsearch'] {'gid': 'hadoop', 'fetch_nonlocal_groups': True, 'groups': ['hadoop']}
+2016-03-22 04:58:34,717 - User['ambari-qa'] {'gid': 'hadoop', 'fetch_nonlocal_groups': True, 'groups': ['users']}
+2016-03-22 04:58:34,717 - File['/var/lib/ambari-agent/tmp/changeUid.sh'] {'content': StaticFile('changeToSecureUid.sh'), 'mode': 0555}
+2016-03-22 04:58:34,718 - Execute['/var/lib/ambari-agent/tmp/changeUid.sh ambari-qa /tmp/hadoop-ambari-qa,/tmp/hsperfdata_ambari-qa,/home/ambari-qa,/tmp/ambari-qa,/tmp/sqoop-ambari-qa'] {'not_if': '(test $(id -u ambari-qa) -gt 1000) || (false)'}
+2016-03-22 04:58:34,721 - Skipping Execute['/var/lib/ambari-agent/tmp/changeUid.sh ambari-qa /tmp/hadoop-ambari-qa,/tmp/hsperfdata_ambari-qa,/home/ambari-qa,/tmp/ambari-qa,/tmp/sqoop-ambari-qa'] due to not_if
+2016-03-22 04:58:34,731 - Execute[('setenforce', '0')] {'not_if': '(! which getenforce ) || (which getenforce && getenforce | grep -q Disabled)', 'sudo': True, 'only_if': 'test -f /selinux/enforce'}
+2016-03-22 04:58:34,735 - Skipping Execute[('setenforce', '0')] due to not_if
+2016-03-22 04:58:34,825 - File['/opt/elasticsearch-2.1.1/config/elasticsearch.yml'] {'owner': 'elasticsearch', 'content': InlineTemplate(...), 'group': 'elasticsearch'}
+2016-03-22 04:58:34,828 - File['/opt/elasticsearch-2.1.1/config/logging.yml'] {'owner': 'elasticsearch', 'content': InlineTemplate(...), 'group': 'elasticsearch'}
+2016-03-22 04:58:34,828 - Execute['echo pid file /var/run/elasticsearch/elasticsearch.pid'] {}
+2016-03-22 04:58:34,830 - Execute['/opt/elasticsearch-2.1.1/bin/elasticsearch -d -p /var/run/elasticsearch/elasticsearch.pid>> /var/log/elasticsearch/es-setup.log'] {'group': 'elasticsearch', 'user': 'elasticsearch'}
+2016-03-22 04:58:36,131 - Execute['chown elasticsearch:elasticsearch /var/run/elasticsearch/elasticsearch.pid'] {}

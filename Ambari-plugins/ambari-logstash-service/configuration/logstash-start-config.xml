@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<configuration>
+
+    <property>
+        <name>pipeline-workers</name>
+        <value>4</value>
+        <description>Sets the number of pipeline workers to run</description>
+    </property>
+
+    <property>
+        <name>pipeline-batch-size</name>
+        <value>125</value>
+        <description>Size of batches the pipeline is to work in</description>
+    </property>
+
+    <property>
+        <name>pipeline-batch-delay</name>
+        <value>5</value>
+        <description>DELAY_IN_MS When creating pipeline batches, how long to wait while polling
+            for the next event.</description>
+    </property>
+
+    <property>
+        <name>start-log-file</name>
+        <value>/var/log/logstash/logstashRunning.log</value>
+        <description>Write logstash internal logs to the given
+            file. Without this flag, logstash will emit
+            logs to standard output</description>
+    </property>
+
+
+</configuration>

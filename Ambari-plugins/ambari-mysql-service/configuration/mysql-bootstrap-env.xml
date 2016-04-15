@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<configuration>
+
+    <!-- params for service -->
+
+    <property>
+        <name>mysql.install_dir</name>
+        <value>/opt</value>
+        <description>This is mysql</description>
+        <value-attributes>
+            <type>directory</type>
+            <editable-only-at-install>true</editable-only-at-install>
+            <overridable>false</overridable>
+        </value-attributes>
+    </property>
+
+    <property>
+        <name>mysql_log_dir</name>
+        <value>/var/log/mysql</value>
+        <description>mysql Log dir</description>
+    </property>
+
+    <property>
+        <name>mysql_pid_dir</name>
+        <value>/var/run/mysql</value>
+        <description>Dir containing process ID file</description>
+        <value-attributes>
+            <type>directory</type>
+            <editable-only-at-install>true</editable-only-at-install>
+            <overridable>false</overridable>
+        </value-attributes>
+    </property>
+
+    <property>
+        <name>mysql_data_dir</name>
+        <value>/var/data/mysql</value>
+        <description>Dir for saving the data</description>
+    </property>
+
+    <property>
+        <name>mysql_user</name>
+        <value>mysql</value>
+        <property-type>USER</property-type>
+        <description>User mysql daemon runs as</description>
+    </property>
+
+    <property>
+        <name>mysql_group</name>
+        <value>mysql</value>
+        <property-type>GROUP</property-type>
+        <description>mysql group</description>
+    </property>
+
+    <property>
+        <name>mysql_download_url</name>
+        <value>http://10.128.7.245/oneapm/mysql-5.6.29-linux-glibc2.5-x86_64.tar.gz</value>
+        <description>provide the url for downloading mysql.tar.gz</description>
+    </property>
+
+    <property>
+        <name>content</name>
+        <description>This is the my.cnf file,you need to change the properties</description>
+        <value>
+# For advice on how to change settings please see
+# http://dev.mysql.com/doc/refman/5.6/en/server-configuration-defaults.html
+
+[mysqld]
+
+# Remove leading # and set to the amount of RAM for the most important data
+# cache in MySQL. Start at 70% of total RAM for dedicated server, else 10%.
+# innodb_buffer_pool_size = 128M
+
+# Remove leading # to turn on a very important data integrity option: logging
+# changes to the binary log between backups.
+# log_bin
+
+# These are commonly set, remove the # and set as required.
+# basedir = .....
+# datadir = .....
+# port = .....
+# server_id = .....
+# socket = .....
+
+# Remove leading # to set options mainly useful for reporting servers.
+# The server defaults are faster for transactions and fast SELECTs.
+# Adjust sizes as needed, experiment to find the optimal values.
+# join_buffer_size = 128M
+# sort_buffer_size = 2M
+# read_rnd_buffer_size = 2M
+
+sql_mode=NO_ENGINE_SUBSTITUTION,STRICT_TRANS_TABLES
+user = {{mysql_user}}
+port = 3306
+socket = /opt/mysql-5.6.29/mysql.sock
+basedir = /opt/mysql-5.6.29
+datadir = /var/data/mysql
+log-error = {{mysql_log_dir}}/mysql_error.log
+pid-file = {{mysql_pid_dir}}/mysql.pid
+        </value>
+    </property>
+
+
+</configuration>

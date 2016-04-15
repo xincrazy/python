@@ -1,0 +1,173 @@
+('counter:traffic.total', 'flink-in')
+('counter:traffic.total', 'alert-flink-in2')
+('counter:traffic.processed', 'flink-in')
+('counter:traffic.processed', 'alert-flink-in2')
+('counter:traffic.jsonexception', 'flink-in')
+('counter:traffic.jsonexception', 'alert-flink-in2')
+('counter:traffic.checkfailure', 'flink-in')
+('counter:traffic.checkfailure', 'alert-flink-in2')
+('counter:traffic.rulemissing', 'flink-in')
+('counter:traffic.rulemissing', 'alert-flink-in2')
+counter:traffic.total;flink-in;11245
+
+counter:traffic.total rate;flink-in;0
+
+counter:traffic.total;alert-flink-in2;11245
+
+counter:traffic.processed;flink-in;108748062
+
+counter:traffic.total rate;alert-flink-in2;0
+
+counter:traffic.processed;alert-flink-in2;1979417
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed rate;alert-flink-in2;0
+
+counter:traffic.jsonexception;alert-flink-in2;2
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.checkfailure;alert-flink-in2;3
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.rulemissing;alert-flink-in2;5
+
+counter:traffic.total;alert-flink-in2;11245
+
+counter:traffic.total;flink-in;11245
+
+counter:traffic.total rate;alert-flink-in2;0
+
+counter:traffic.total rate;flink-in;0
+
+counter:traffic.processed;flink-in;108748062
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.processed;alert-flink-in2;1979417
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed rate;alert-flink-in2;0
+
+counter:traffic.jsonexception;alert-flink-in2;2
+
+counter:traffic.checkfailure;alert-flink-in2;3
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.rulemissing;alert-flink-in2;5
+
+counter:traffic.total;flink-in;11245
+
+counter:traffic.total;alert-flink-in2;11245
+
+counter:traffic.total rate;flink-in;0
+counter:traffic.processed;alert-flink-in2;1979417
+
+counter:traffic.processed;flink-in;108748062
+
+
+counter:traffic.jsonexception;alert-flink-in2;2
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.total rate;alert-flink-in2;0
+
+counter:traffic.processed rate;alert-flink-in2;0
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.checkfailure;alert-flink-in2;3
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.rulemissing;alert-flink-in2;5
+
+counter:traffic.total;flink-in;11245
+
+counter:traffic.processed;flink-in;108748062
+
+counter:traffic.processed;alert-flink-in2;1979417
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.jsonexception;alert-flink-in2;2
+counter:traffic.total rate;flink-in;0
+
+counter:traffic.total;alert-flink-in2;11245
+
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.checkfailure;alert-flink-in2;3
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.rulemissing;flink-in;4
+
+counter:traffic.processed rate;alert-flink-in2;0
+
+counter:traffic.total rate;alert-flink-in2;0
+
+counter:traffic.rulemissing;alert-flink-in2;5
+
+counter:traffic.total;flink-in;11245
+
+counter:traffic.processed;flink-in;108748062
+
+counter:traffic.total;alert-flink-in2;11245
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed;alert-flink-in2;1979417
+
+counter:traffic.total rate;flink-in;0
+
+counter:traffic.total rate;alert-flink-in2;0
+
+counter:traffic.jsonexception;alert-flink-in2;2
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.checkfailure;alert-flink-in2;3
+
+counter:traffic.processed rate;alert-flink-in2;0
+
+counter:traffic.rulemissing;flink-in;4
+counter:traffic.rulemissing;alert-flink-in2;5
+
+
+counter:traffic.processed;flink-in;108748062
+
+counter:traffic.total;alert-flink-in2;11245
+
+counter:traffic.jsonexception;alert-flink-in2;2
+
+counter:traffic.total rate;alert-flink-in2;0
+
+counter:traffic.jsonexception;flink-in;1
+
+counter:traffic.processed;alert-flink-in2;1979417
+
+counter:traffic.total;flink-in;11245
+
+counter:traffic.processed rate;flink-in;0
+
+counter:traffic.checkfailure;flink-in;2
+
+counter:traffic.checkfailure;alert-flink-in2;3
+
+counter:traffic.processed rate;alert-flink-in2;0
+
+counter

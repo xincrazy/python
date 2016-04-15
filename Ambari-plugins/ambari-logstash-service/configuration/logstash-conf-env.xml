@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<configuration>
+  
+  <property>
+    <name>content</name>
+    <description>This is the logstash template</description>
+    <value>
+input {
+      file {
+           path => '/home/logstash/a.txt'
+      }
+}
+output {
+      file {
+            path => '/home/logstash/b.txt'
+      }
+}
+    </value>
+  </property>  
+ 
+</configuration>  
